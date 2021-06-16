@@ -55,9 +55,11 @@ https://youtu.be/gX_8SznN00k
 
 How to download texture pack "Full version" from Github?
 
-On Android it's recommended to download by "Termux" app (from Play Store). 
-- Step 1 : using command "pkg install git"
-- Step 2 : "pkg upgrade"
+On Android it's recommended to download by "Termux" app (from F-Droid only.)
+or https://apkcombo.com/termux/com.termux/
+
+- Step 1 : using command "pkg upgrade"
+- Step 2 : "pkg install git"
 - Step 3 : "termux-setup-storage"
 - Step 4 : "cd ~/storage/shared/"
 - Step 5 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
