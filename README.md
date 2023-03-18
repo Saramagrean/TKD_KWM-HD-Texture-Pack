@@ -2,8 +2,8 @@
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
 - Progress: Almost complete 85%
-- Latest update: 04/09/2021
-- Total size: 2 GB. (7,806 files)
+- Latest update: 18/03/2023
+- Total size: 1 GB. (7,806 files)
 
 ••• Info. •••
 
@@ -71,11 +71,15 @@ or direct link...
 
 • Download Full version
 
+Recommended use PPSSPP latest git build : https://buildbot.orphis.net/ppsspp/
+
+KTX2 Pack (xx/xx/2023) : ...Upload soon...
+
 PNG Pack (25/12/2020) : https://bit.ly/37PUbzf
 
 ZIM Pack (25/05/2021) : https://bit.ly/3zuqwGK and addition update, replace with old files (04/09/2021) :  https://bit.ly/3mYXLiG
 
-Note: for ZIM Pack req. PPSSPP v1.11.3 latest git build (694+), can donwload from here : https://buildbot.orphis.net/ppsspp
+Note: for ZIM Pack req. PPSSPP v1.12+
 
 • Download Lite version
 
@@ -91,6 +95,11 @@ What are the texture packs in the "Lite version"?
 - All Fonts are more sharper.
 
 Lite Pack (25/12/2020) : https://bit.ly/37M5Zme
+
+• How to install texture pack?
+
+- For Windows : Just drag and drop into PPSSPP Screen.
+- For Android : Install via PPSSPP, choose at texture pack zip file and press install.
 
 ================================================
 
