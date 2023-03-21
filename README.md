@@ -1,31 +1,29 @@
 # TKD_KWM-HD-Texture-Pack
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
-- Progress: Almost complete 85%
-- Latest update: 20/03/2023
-- Total size: 1.4 GB. (7,806 files)
+<b><p>-- Progress:</b> Almost complete 85%<br />
+<b>-- Latest update:</b> 20/03/2023<br />
+<b>-- Total size:</b> 1.4 GB. (7,806 files)</p>
 
-••• Info. •••
+<b><h3>••• Info. •••</h3></b>
 
-[HD]: Village in spring and fall, All Monsters. (Large Oni), All Armors and Weapons, NPC models, Mini-map & Font.
+<b><p>-- [HD]:</b> Village in spring and fall, All Monsters. (Large Oni), All Armors and Weapons, NPC models, Mini-map & Font.<br />
+<b>-- [Upscaling]:</b> All Stages. All Monsters (Small Oni), NPC portraits and cut-ins (not complete yet), All Mitama cards.<br />
+<b>-- [Partial translation to English]:</b> Main menu, All HUD/GUI, Tutorial guides, Fox (Tenko), Result missions screen etc.</p>
 
-[Upscaling]: All Stages. All Monsters (Small Oni), NPC portraits and cut-ins (not complete yet), All Mitama cards.
+<b><h3>••• Special Thanks. •••</h3></b>
 
-[Partial translation to English]: Main menu, All HUD/GUI, Tutorial guides, Fox (Tenko), Result missions screen etc.
+<p>-- "Ace-San" for House/Village in Spring/Command center texture and All partial translation HUD/GUI textures.<br />
+-- "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.<br />
+-- "Saramagrean" for New font and AI upscaled textures.<br />
+-- "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.</p>
 
-••• Special Thanks. •••
-
-- "Ace-San" for House/Village in Spring/Command center texture and All partial translation HUD/GUI textures.
-- "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.
-- "Saramagrean" for New font and AI upscaled textures.
-- "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.
-
-• PPSSPP - Texture Pack thread:
+<b>• PPSSPP Forum - Texture Pack thread:</b>
 https://forums.ppsspp.org/showthread.php?tid=27014
 
 ================================================
 
-••• Screenshots. •••
+<b><h1>••• Screenshots. •••</h1></b>
 
 <a href="https://ibb.co/j86hGxt"><img src="https://i.ibb.co/mRDJtYp/NPJH50878-00003.jpg" alt="NPJH50878-00003" border="0"></a>
 <a href="https://ibb.co/fX7Y2c8"><img src="https://i.ibb.co/MgLDsX8/NPJH50878-00017.jpg" alt="NPJH50878-00017" border="0"></a>
@@ -46,12 +44,12 @@ https://forums.ppsspp.org/showthread.php?tid=27014
 <a href="https://ibb.co/FJ9ZsXY"><img src="https://i.ibb.co/BjmW4G6/NPJH50878-00090.jpg" alt="NPJH50878-00090" border="0"></a>
 <a href="https://ibb.co/mJfJ2gt"><img src="https://i.ibb.co/1ZFZPjK/NPJH50878-00030.jpg" alt="NPJH50878-00007" border="0"></a>
 
-• Video review. (old version of texture pack):
+<b>• Video review. (old version of texture pack):</b>
 https://youtu.be/gX_8SznN00k
 
 ================================================
 
-••• Download: •••
+<h1><b>••• Download: •••</b></h1>
 
 <!-- How to download texture pack "Full version" from Github?
 
@@ -69,71 +67,77 @@ or https://github.com/HardcodedCat/termux-monet/releases/
 
 or download from direct link... -->
 
-••• Full version •••
+<b><h2>••• Full version •••</h2></b>
 
--- KTX2 Pack (20/03/2023) : https://bit.ly/3yRjMob (Recommended!)
+<b>-- KTX2 Pack (20/03/2023) :</b> https://bit.ly/3yRjMob (Recommended!)
 
 Note: for KTX2 Pack req. PPSSPP v1.14.4 Build 930+ from here. : https://buildbot.orphis.net/ppsspp/
 
--- ZIM Pack (25/05/2021) : https://bit.ly/3zuqwGK and addition update, replace with old files. (04/09/2021) : https://bit.ly/3mYXLiG
+or...
 
-Note: for ZIM Pack req. PPSSPP v1.12+
+<b><p>-- ZIM Pack (25/05/2021) :</b> https://bit.ly/3zuqwGK<br />
+<b>-- ZIM Pack addition update (04/09/2021) :</b> https://bit.ly/3mYXLiG (Replace with old files.)</p>
 
--- PNG Pack (25/12/2020) : https://bit.ly/37PUbzf
+<b>Note:</b> for ZIM Pack req. PPSSPP v1.12+
 
-••• Lite version •••
+or...
+
+<b>-- PNG Pack (25/12/2020) :</b> https://bit.ly/37PUbzf
+
+<b><h2>••• Lite version •••</h2></b>
 
 If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want to donwload texture pack full version, can be download with "Lite version" to use instead.
 
-What are the texture packs in the "Lite version"?
--- Total size 250 MB.
--- English translation of the main menu page
--- HUD/GUI all translated to English (if I don't miss it)
--- Tutorial guides are all translated in English.
--- Fox menu screen (Tenko) translated in English
--- Mini-map is more sharper (there should still be some missing).
--- All Fonts are more sharper.
+<b>What are the texture packs in the "Lite version"?</b>
+<p>-- Total size 250 MB.
+-- English translation of the main menu page<br />
+-- HUD/GUI all translated to English (if I don't miss it)<br />
+-- Tutorial guides are all translated in English.<br />
+-- Fox menu screen (Tenko) translated in English<br />
+-- Mini-map is more sharper (there should still be some missing).<br />
+-- All Fonts are more sharper.</p>
 
-• Lite Pack (25/12/2020) : https://bit.ly/37M5Zme
+<b>• Lite Pack (25/12/2020) :</b> https://bit.ly/37M5Zme
 
-••• How to install texture pack? •••
+<b><h3>••• How to install texture pack? •••</h3></b>
 
--- For Windows : Just drag and drop texture pack zip file into PPSSPP Screen and press install.
-
--- For Android : Install via PPSSPP, choose at texture pack zip file and press install.
+<p><b>-- For Windows :</b> Just drag and drop texture pack zip file into PPSSPP Screen and press install.<br />
+<b>-- For Android :</b> Install via PPSSPP, choose at texture pack zip file and press install.</p>
 
 ================================================
 
-••• English Patch •••
+<h1><b>••• English Patch •••</b></h1>
 
-By HoaiTrung97 Fan Translation.
+<b>By HoaiTrung97 Fan Translation.</b>
 
-Staff Team:
-*HoaiTrung97: Small Translate, Hacking.
-*Saramagrean (Benjamin B.Gates): Edit all cutscenes.
+<p><b>Staff Team:</b><br />
+-- HoaiTrung97: Small Translate, Hacking.<br />
+-- Saramagrean (Benjamin B.Gates): Edit all cutscenes.</p>
 
-Special Thanks:
-*Ace_Ssasin: HD textures.
-*Jam Rules: ASM code.
-*YamiKaze: Script PSV.
+<p><b>Special Thanks:</b><br />
+-- Ace_Ssasin: HD textures.<br />
+-- Jam Rules: ASM code.<br />
+-- YamiKaze: Script PSV.</p>
 
-What Include Patch v3.0:
--- Based on Toukiden Kiwami v.1.07 (Japan)
--- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it's texture)
--- Port from PSV. (All scrpit 100%)
--- Added BGM in game info screen.
--- Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)
+<p><b>What Include Patch v3.0:</b><br />
+-- Based on Toukiden Kiwami v.1.07 (Japan)<br />
+-- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it's texture)<br />
+-- Port from PSV. (All scrpit 100%))<br />
+-- Added BGM in game info screen.)<br />
+-- Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)</p>
 
-Known Bugs:
--- On story mode, choice text has hidden. (but u can press skip it - see pics)
-<a href="https://ibb.co/fNJTFyH"><img src="https://i.ibb.co/WzCR5Mf/Bug0-1.png" alt="Bug0-1" border="0"></a>
-<a href="https://ibb.co/z5b6Xrd"><img src="https://i.ibb.co/8B2Yr0k/Bug0-2.png" alt="Bug0-2" border="0"></a>
--- The circle fire when mitama talking has hidden too.
-<a href="https://ibb.co/hFv23sH"><img src="https://i.ibb.co/MkLPFnp/NPJH50878-00093.png" alt="NPJH50878-00093" border="0"></a>
-<a href="https://ibb.co/Wz3kgtH"><img src="https://i.ibb.co/R6S3zyg/NPJH50878-00092.png" alt="NPJH50878-00092" border="0"></a>
--- Some overflow text still due I still test all game.
--- Sometime noticed invisible weapon & sound BGM not play in first battle, temporary fix by restart game.
+<p><b>Known Bugs:</b><br />
+-- On story mode, choice text has hidden. (but u can press skip it - see pics)<br />
+<a href="https://ibb.co/fNJTFyH"><img src="https://i.ibb.co/WzCR5Mf/Bug0-1.png" alt="Bug0-1" border="0"></a><br />
+<a href="https://ibb.co/z5b6Xrd"><img src="https://i.ibb.co/8B2Yr0k/Bug0-2.png" alt="Bug0-2" border="0"></a><br />
+-- The circle fire when mitama talking has hidden too.<br />
+<a href="https://ibb.co/hFv23sH"><img src="https://i.ibb.co/MkLPFnp/NPJH50878-00093.png" alt="NPJH50878-00093" border="0"></a><br />
+<a href="https://ibb.co/Wz3kgtH"><img src="https://i.ibb.co/R6S3zyg/NPJH50878-00092.png" alt="NPJH50878-00092" border="0"></a><br />
+-- Some overflow text still due I still test all game.</p>
 
-• Download English Patch v3.0 (xdelta): https://bit.ly/3aIcxnH
+================================================
 
+<b>• Download English Patch v3.0 (xdelta):</b> https://bit.ly/3aIcxnH
+
+================================================
 
