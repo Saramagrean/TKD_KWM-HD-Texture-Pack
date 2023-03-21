@@ -2,8 +2,8 @@
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
 - Progress: Almost complete 85%
-- Latest update: 18/03/2023
-- Total size: 1 GB. (7,806 files)
+- Latest update: 20/03/2023
+- Total size: 1.4 GB. (7,806 files)
 
 ••• Info. •••
 
@@ -53,53 +53,54 @@ https://youtu.be/gX_8SznN00k
 
 ••• Download: •••
 
-How to download texture pack "Full version" from Github?
+<!-- How to download texture pack "Full version" from Github?
 
-On Android it's recommended to download by "Termux" app (from F-Droid only.)
-or https://apkcombo.com/termux/com.termux/
+• On Android it's recommended to download by "Termux" app (from F-Droid only.)
+or https://github.com/HardcodedCat/termux-monet/releases/
 
-- Step 1 : using command "pkg upgrade"
-- Step 2 : "pkg install git"
-- Step 3 : "termux-setup-storage"
-- Step 4 : "cd ~/storage/shared/"
-- Step 5 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
-- Step 6 : waiting donwload 100%
+-- Step 1 : using command "pkg upgrade"
+-- Step 2 : "pkg install git"
+-- Step 3 : "termux-setup-storage"
+-- Step 4 : "cd ~/storage/shared/"
+-- Step 5 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
+-- Step 6 : waiting donwload 100%
 
-On platform Windows use "Git" or "Github desktop" for download.
+• On platform Windows use "Git" or "Github desktop" for download.
 
-or direct link...
+or download from direct link... -->
 
-• Download Full version
+••• Full version •••
 
-Recommended use PPSSPP latest git build : https://buildbot.orphis.net/ppsspp/
+-- KTX2 Pack (20/03/2023) : https://bit.ly/3yRjMob (Recommended!)
 
-KTX2 Pack (xx/xx/2023) : ...Upload soon...
+Note: for KTX2 Pack req. PPSSPP v1.14.4 Build 930+ from here. : https://buildbot.orphis.net/ppsspp/
 
-PNG Pack (25/12/2020) : https://bit.ly/37PUbzf
-
-ZIM Pack (25/05/2021) : https://bit.ly/3zuqwGK and addition update, replace with old files (04/09/2021) :  https://bit.ly/3mYXLiG
+-- ZIM Pack (25/05/2021) : https://bit.ly/3zuqwGK and addition update, replace with old files. (04/09/2021) : https://bit.ly/3mYXLiG
 
 Note: for ZIM Pack req. PPSSPP v1.12+
 
-• Download Lite version
+-- PNG Pack (25/12/2020) : https://bit.ly/37PUbzf
+
+••• Lite version •••
 
 If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want to donwload texture pack full version, can be download with "Lite version" to use instead.
 
 What are the texture packs in the "Lite version"?
-- Total size 250 MB.
-- English translation of the main menu page
-- HUD/GUI all translated to English (if I don't miss it)
-- Tutorial guides are all translated in English.
-- Fox menu screen (Tenko) translated in English
-- Mini-map is more sharper (there should still be some missing).
-- All Fonts are more sharper.
+-- Total size 250 MB.
+-- English translation of the main menu page
+-- HUD/GUI all translated to English (if I don't miss it)
+-- Tutorial guides are all translated in English.
+-- Fox menu screen (Tenko) translated in English
+-- Mini-map is more sharper (there should still be some missing).
+-- All Fonts are more sharper.
 
-Lite Pack (25/12/2020) : https://bit.ly/37M5Zme
+• Lite Pack (25/12/2020) : https://bit.ly/37M5Zme
 
-• How to install texture pack?
+••• How to install texture pack? •••
 
-- For Windows : Just drag and drop into PPSSPP Screen.
-- For Android : Install via PPSSPP, choose at texture pack zip file and press install.
+-- For Windows : Just drag and drop texture pack zip file into PPSSPP Screen and press install.
+
+-- For Android : Install via PPSSPP, choose at texture pack zip file and press install.
 
 ================================================
 
@@ -117,21 +118,21 @@ Special Thanks:
 *YamiKaze: Script PSV.
 
 What Include Patch v3.0:
-- Based on Toukiden Kiwami v.1.07 (Japan)
-- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it's texture)
-- Port from PSV. (All scrpit 100%)
-- Added BGM in game info screen.
-- Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)
+-- Based on Toukiden Kiwami v.1.07 (Japan)
+-- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it's texture)
+-- Port from PSV. (All scrpit 100%)
+-- Added BGM in game info screen.
+-- Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)
 
 Known Bugs:
-- On story mode, choice text has hidden. (but u can press skip it - see pics)
+-- On story mode, choice text has hidden. (but u can press skip it - see pics)
 <a href="https://ibb.co/fNJTFyH"><img src="https://i.ibb.co/WzCR5Mf/Bug0-1.png" alt="Bug0-1" border="0"></a>
 <a href="https://ibb.co/z5b6Xrd"><img src="https://i.ibb.co/8B2Yr0k/Bug0-2.png" alt="Bug0-2" border="0"></a>
-- The circle fire when mitama talking has hidden too.
+-- The circle fire when mitama talking has hidden too.
 <a href="https://ibb.co/hFv23sH"><img src="https://i.ibb.co/MkLPFnp/NPJH50878-00093.png" alt="NPJH50878-00093" border="0"></a>
 <a href="https://ibb.co/Wz3kgtH"><img src="https://i.ibb.co/R6S3zyg/NPJH50878-00092.png" alt="NPJH50878-00092" border="0"></a>
-- Some overflow text still due I still test all game.
-- Sometime noticed invisible weapon & sound BGM not play in first battle, temporary fix by restart game.
+-- Some overflow text still due I still test all game.
+-- Sometime noticed invisible weapon & sound BGM not play in first battle, temporary fix by restart game.
 
 • Download English Patch v3.0 (xdelta): https://bit.ly/3aIcxnH
 
